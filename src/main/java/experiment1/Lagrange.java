@@ -8,7 +8,6 @@ package experiment1;
  * @since JDK 11
  */
 public class Lagrange {
-
     private final double length;
 
     private final int numOfNode;
