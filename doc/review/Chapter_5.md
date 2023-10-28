@@ -4,7 +4,6 @@
 - Gauss-Seide迭代法
 - SOR迭代法
 - 向量的范数
-- 矩阵的范数
 
 #### Jacobi迭代法
 
